@@ -1,0 +1,13 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/logs/logs"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#4499DD",
+    "navigationBarTitleText": "TODOS",
+    "pagePath": "pages/index/index",
+    "navigationBarTextStyle":"white"
+  }
+}
